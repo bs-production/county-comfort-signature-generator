@@ -5,10 +5,10 @@
         "background: none; border-width: 0px; border: 0px; margin: 0; padding: 0;">
         <tr>
             <td valign="top" style="padding-top: 0; padding-bottom: 0; padding-left: 0; padding-right: 7px; border-top: 0; border-bottom: 0: border-left: 0;">
-              <a href="https://www.carolinabasementsystems.com/">
-                <img v-show="mobilePhoneSwitch" width="220" height="139" style="width: 220px; max-width: 220px !important; height: 139px; max-height: 139px !important; margin-top: 5px;" id="preview-image-url" src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1531/carolina-bs-logo-output.png" name="preview-image-url" />
+              <a href="https://www.countycomfort.com/">
+                <img v-show="mobilePhoneSwitch" width="220" height="139" style="width: 220px; max-width: 220px !important; height: 139px; max-height: 139px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/3065/signature-logo-bar-county-comfort.png" name="preview-image-url" />
         
-                <img v-show="!mobilePhoneSwitch" width="190" height="121" style="width: 190px; max-width: 190px !important; height: 121px; max-height: 121px !important; margin-top: 5px;" id="preview-image-url" src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1531/carolina-bs-logo-output.png" name="preview-image-url" />
+                <img v-show="!mobilePhoneSwitch" width="190" height="121" style="width: 190px; max-width: 190px !important; height: 121px; max-height: 121px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/3065/signature-logo-bar-county-comfort.png" name="preview-image-url" />
               </a>
             </td>
             
@@ -18,7 +18,7 @@
             "background: none; border-width: 0px; border: 0px; margin: 0; padding: 0;">
               <tr>
                   <td colspan="2" style=
-                  "padding-bottom: 5px; color: #1aaee4; font-size: 18px; font-family: Arial, Helvetica, sans-serif;">
+                  "padding-bottom: 5px; color: #3866b9; font-size: 18px; font-family: Arial, Helvetica, sans-serif;">
                   {{fullName}}
                   </td>
                 </tr>
@@ -34,7 +34,7 @@
              
                 <tr>
                   <td width="20" valign="top" style=
-                  "vertical-align: top; width: 20px; color: #1aaee4; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
+                  "vertical-align: top; width: 20px; color: #3866b9; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
                   Office:
                   </td>
                   <td valign="top" style=
@@ -44,7 +44,7 @@
                 </tr>
                 <tr v-show="mobilePhoneSwitch">
                 <td width="20" valign="top" style=
-                  "vertical-align: top; width: 20px; color: #1aaee4; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
+                  "vertical-align: top; width: 20px; color: #3866b9; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
                   Mobile:
                   </td>
                   <td valign="top" style=
@@ -54,7 +54,7 @@
                 </tr>
                 <tr>
                     <td width="20" valign="top" style=
-                    "vertical-align: top; width: 20px; color: #1aaee4; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
+                    "vertical-align: top; width: 20px; color: #3866b9; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
                     Email:
                     </td>
                     <td valign="top" style=
@@ -65,33 +65,33 @@
                   </tr>
                 <tr>
                   <td width="20" valign="top" style=
-                  "vertical-align: top; width: 20px; color: #1aaee4; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
+                  "vertical-align: top; width: 20px; color: #3866b9; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
                   Web:
                   </td>
                   <td valign="top" style=
                   "vertical-align: top; color: #333333; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
-                  <a href="https://www.carolinabasementsystems.com/" style=
+                  <a href="https://www.countycomfort.com/" style=
                   "color: #333333; text-decoration: none; font-weight: normal; font-size: 14px;">
-                    carolinabasementsystems.com</a>
+                    countycomfort.com/</a>
                     &nbsp;&nbsp;
                   </td>
                 </tr>
 
                 <tr>
                   <td colspan="2" style="padding-top: 5px;">
-                    <a href="https://www.facebook.com/carolinabasementsystems/" style=
+                    <a href="https://www.facebook.com/countyheatac/" style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
                     height="25" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
                     "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1874/facebook.png" /></a>
                     
-                    <a href="https://www.linkedin.com/company/carolina-basement-systems" style=
+                    <!-- <a href="https://www.linkedin.com/company/carolina-basement-systems" style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
                     height="25" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
-                    "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1874/linkedin.png" /></a>
+                    "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1874/linkedin.png" /></a> -->
                     
                     <!-- <a href="https://www.youtube.com/channel/UCop6hiVtGvTDem0UqPppINw"
                     style=
@@ -101,7 +101,7 @@
                     src=
                     "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1874/youtube.png" /></a> -->
 
-                    <a href="https://www.instagram.com/carolina_basement_systems/"
+                    <a href="https://www.instagram.com/countycomfort/"
                     style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
                     height="25" style=
@@ -167,6 +167,6 @@ li {
 }
 
 a {
-  color: #1aaee4;
+  color: #3866b9;
 }
 </style>
